@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# AdvancedNodeJSConcepts
+Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node!
